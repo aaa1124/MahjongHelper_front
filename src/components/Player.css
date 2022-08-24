@@ -1,0 +1,19 @@
+div.Player{
+
+    float: left;
+    display: flex;
+    overflow: visible;
+    flex-direction: row;
+  
+    align-items: left;
+  
+    border: 1px;
+    border-style:solid;
+    border-color: crimson;
+  }
+  
+  div.Player img{
+    padding: 5px;
+    height: 40px;
+  }
+  
